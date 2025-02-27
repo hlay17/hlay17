@@ -1,6 +1,6 @@
-- 👋 Hi, I’m 栩安
-- 👀 I’m interested in ...聽音樂
-- 🌱 I’m currently learning 航運管理學系
+- 👋 栩安
+- 👀 
+- 🌱 航運管理學系
 - 📫 How to reach me ...  Email:113b06155@mailst.cjcu.ptc.edu.tw
 
 
