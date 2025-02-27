@@ -1,7 +1,6 @@
 - 👋 栩安
-- 👀 
-- 🌱 航運管理學系
-- 📫 How to reach me ...  Email:113b06155@mailst.cjcu.ptc.edu.tw
+   - 🌱 航運管理學系
+- 📫  Email:113b06155@mailst.cjcu.ptc.edu.tw
 
 
 <!---
