@@ -4,6 +4,7 @@
 - 📫 Email:113b06155@mailst.cjcu.ptc.edu.tw
 - 📝 Abacus定位證照
 - ✈️ 曾在台南航空站實習
+- ✈️ 實習證明  https://drive.google.com/file/d/17cr68-czfusg19l7Lb8SZMSzZ6VrSTQS/view?usp=sharing
 
 
 <!---
